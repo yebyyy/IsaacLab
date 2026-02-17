@@ -76,3 +76,6 @@ tests/
 
 # assets
 **/assets
+
+# slurm jobs
+**/scripts/experiments/slurm_logs
