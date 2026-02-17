@@ -1,4 +1,0 @@
-cp: cannot create regular file '/tmp/IsaacLab/.git/objects/pack/pack-b8420434a615a3bbd28d81eae4e9a6bb4749e355.pack': Permission denied
-cp: cannot create regular file '/tmp/IsaacLab/.git/objects/pack/pack-b8420434a615a3bbd28d81eae4e9a6bb4749e355.idx': Permission denied
-cp: cannot create regular file '/tmp/IsaacLab/.git/objects/pack/pack-b8420434a615a3bbd28d81eae4e9a6bb4749e355.rev': Permission denied
-FATAL:   While checking container encryption: could not open image /tmp/isaac-lab-base.sif: failed to retrieve path for /tmp/isaac-lab-base.sif: lstat /tmp/isaac-lab-base.sif: no such file or directory

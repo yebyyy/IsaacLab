@@ -1,4 +1,0 @@
-INFO:    fuse2fs not found, will not be able to mount EXT3 filesystems
-unknown option --task
-usage: /isaac-sim/kit/python/bin/python3 [option] ... [-c cmd | -m mod | file | -] [arg] ...
-Try `python -h' for more information.

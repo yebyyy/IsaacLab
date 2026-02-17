@@ -1,7 +1,0 @@
-INFO:    fuse2fs not found, will not be able to mount EXT3 filesystems
-2026-02-08T05:11:24Z [44,165ms] [Error] [carb.graphics-vulkan.plugin] Could not get NGX parameters block because NGX isn't enabled.
-2026-02-08T05:11:24Z [44,166ms] [Error] [carb.graphics-vulkan.plugin] Failed to create NGX context.
-/isaac-sim/kit/python/lib/python3.11/site-packages/rsl_rl/utils/utils.py:245: UserWarning: The observation configuration dictionary 'obs_groups' must contain the 'policy' key. As an observation group with the name 'policy' was found, this is assumed to be the observation set. Consider adding the 'policy' key to the 'obs_groups' dictionary for clarity. This behavior will be removed in a future version.
-  warnings.warn(
-/isaac-sim/kit/python/lib/python3.11/site-packages/rsl_rl/utils/utils.py:291: UserWarning: The observation configuration dictionary 'obs_groups' must contain the 'critic' key. As the configuration for 'critic' is missing, the observations from the 'policy' set are used. Consider adding the 'critic' key to the 'obs_groups' dictionary for clarity. This behavior will be removed in a future version.
-  warnings.warn(
