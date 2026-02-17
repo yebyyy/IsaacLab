@@ -1,0 +1,5 @@
+/srv/flash1/xye87/.apptainer/tmp
+Warning: running in conda env, please deactivate before executing this script
+If conda is desired please source setup_conda_env.sh in your python 3.11 conda env and run python normally
+There was an error running python
+(run_singularity.py): Return

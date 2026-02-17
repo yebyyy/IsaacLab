@@ -1,0 +1,19 @@
+(run_singularity.py): Called on compute node from current isaaclab directory /srv/flash1/xye87/spring2026/IsaacLab with container profile isaac-lab-base and arguments --task Isaac-Cartpole-v0 --headless --enable-cameras --num_envs 2 --max_iterations 100 --video --video_length 1000
+Created directory: /srv/flash1/xye87/spring2026/cache/docker-isaac-sim/cache/kit
+Created directory: /srv/flash1/xye87/spring2026/cache/docker-isaac-sim/cache/ov
+Created directory: /srv/flash1/xye87/spring2026/cache/docker-isaac-sim/cache/pip
+Created directory: /srv/flash1/xye87/spring2026/cache/docker-isaac-sim/cache/glcache
+Created directory: /srv/flash1/xye87/spring2026/cache/docker-isaac-sim/cache/computecache
+sending incremental file list
+docker-isaac-sim/computecache/
+docker-isaac-sim/data/
+docker-isaac-sim/documents/
+docker-isaac-sim/glcache/
+docker-isaac-sim/kit/
+docker-isaac-sim/logs/
+docker-isaac-sim/ov/
+docker-isaac-sim/pip/
+
+sent 408 bytes  received 55 bytes  926.00 bytes/sec
+total size is 0  speedup is 0.00
+(run_singularity.py): Return

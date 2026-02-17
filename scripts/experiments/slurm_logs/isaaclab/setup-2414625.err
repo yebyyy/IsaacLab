@@ -1,0 +1,6 @@
+cp: cannot create regular file '/tmp/IsaacLab/.git/objects/pack/pack-b8420434a615a3bbd28d81eae4e9a6bb4749e355.pack': Permission denied
+cp: cannot create regular file '/tmp/IsaacLab/.git/objects/pack/pack-b8420434a615a3bbd28d81eae4e9a6bb4749e355.idx': Permission denied
+cp: cannot create regular file '/tmp/IsaacLab/.git/objects/pack/pack-b8420434a615a3bbd28d81eae4e9a6bb4749e355.rev': Permission denied
+tar: /srv/flash1/xye87/spring2026/containers/isaac-lab_2.3.2.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+FATAL:   While checking container encryption: could not open image /tmp/isaac-lab_2.3.2.sif: failed to retrieve path for /tmp/isaac-lab_2.3.2.sif: lstat /tmp/isaac-lab_2.3.2.sif: no such file or directory

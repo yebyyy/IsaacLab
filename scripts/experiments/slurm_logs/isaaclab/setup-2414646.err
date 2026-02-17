@@ -1,0 +1,2 @@
+INFO:    fuse2fs not found, will not be able to mount EXT3 filesystems
+/isaac-sim/kit/python/bin/python3: can't open file '/workspace/isaaclab/scripts/symbot/train.py': [Errno 2] No such file or directory

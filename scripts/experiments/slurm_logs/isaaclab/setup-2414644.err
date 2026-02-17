@@ -1,0 +1,3 @@
+WARNING: nv files may not be bound with --writable
+INFO:    fuse2fs not found, will not be able to mount EXT3 filesystems
+FATAL:   no SIF writable overlay partition found in /coc/testnvme/xye87/spring2026/containers/isaac-lab_2.3.2.sif

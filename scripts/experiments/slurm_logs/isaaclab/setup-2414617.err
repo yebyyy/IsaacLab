@@ -1,0 +1,1 @@
+FATAL:   While checking container encryption: could not open image /tmp/isaac-lab-base.sif: failed to retrieve path for /tmp/isaac-lab-base.sif: lstat /tmp/isaac-lab-base.sif: no such file or directory

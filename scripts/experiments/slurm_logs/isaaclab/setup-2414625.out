@@ -1,0 +1,7 @@
+/srv/flash1/xye87/.apptainer/tmp
+(run_singularity.py): Called on compute node from current isaaclab directory /srv/flash1/xye87/spring2026/IsaacLab with container profile isaac-lab_2.3.2 and arguments --task Isaac-Cartpole-v0 --headless --enable-cameras --num_envs 2 --max_iterations 100 --video --video_length 1000
+sending incremental file list
+
+sent 384 bytes  received 31 bytes  830.00 bytes/sec
+total size is 0  speedup is 0.00
+(run_singularity.py): Return

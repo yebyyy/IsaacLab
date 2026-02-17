@@ -1,0 +1,19 @@
+INFO:    fuse2fs not found, will not be able to mount EXT3 filesystems
+2026-02-17T15:35:56Z [38,805ms] [Error] [omni.kit.commands.command] Can't execute command: "MJCFCreateImportConfig", it wasn't registered or ambigious.
+Traceback (most recent call last):
+  File "/workspace/isaaclab/scripts/tools/convert_mjcf.py", line 137, in <module>
+    main()
+  File "/workspace/isaaclab/scripts/tools/convert_mjcf.py", line 107, in main
+    mjcf_converter = MjcfConverter(mjcf_converter_cfg)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/isaaclab/source/isaaclab/isaaclab/sim/converters/mjcf_converter.py", line 48, in __init__
+    super().__init__(cfg=cfg)
+  File "/workspace/isaaclab/source/isaaclab/isaaclab/sim/converters/asset_converter_base.py", line 106, in __init__
+    self._convert_asset(cfg)
+  File "/workspace/isaaclab/source/isaaclab/isaaclab/sim/converters/mjcf_converter.py", line 60, in _convert_asset
+    import_config = self._get_mjcf_import_config()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/isaaclab/source/isaaclab/isaaclab/sim/converters/mjcf_converter.py", line 86, in _get_mjcf_import_config
+    import_config.set_import_sites(True)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'set_import_sites'
